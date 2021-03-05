@@ -49,7 +49,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Infrastructure
 
-- [Commerce.js](https://commercejs.com) &mdash; Design, build, and control your eCommerce using our APIs and dashboard. Experience control meets integration flexibility.
+- [Commerce.js](https://commercejs.com) &mdash; Design, build, and control your eCommerce using our APIs and dashboard.
 
 ## Cart and Checkout
 
