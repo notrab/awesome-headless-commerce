@@ -66,6 +66,10 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Search
 
+- [Elastic](https://www.elastic.co/elasticsearch) &mdash; Elasticsearch is a distributed, RESTful search and analytics engine.
+- [Constructor.io](https://constructor.io) &mdash; Enterprise Product Discovery, Tailor-Made for eCommerce.
+- [Algolia](https://www.algolia.com) &mdash; Create cutting-edge UX for web, apps & ecommerce
+
 ## Tax
 
 ## Fraud Prevention
@@ -83,6 +87,8 @@ A community curated list of headless commerce related APIs, products, and servic
 ## Analytics
 
 ## DAM
+
+- [Cloudinary](https://cloudinary.com) &mdash; Create, manage, and deliver engaging visual experiences.
 
 ## OMS
 
