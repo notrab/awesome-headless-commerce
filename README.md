@@ -98,6 +98,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## PIM
 
+- [Salsify](https://www.salsify.com) &mdash; Commerce Experience Management for the Digital Shelf.
 - [Crystallize](https://crystallize.com) &mdash; Product information (PIM) and rich marketing content in one.
 
 [Learn more about a PIM](https://headlesscommerce.org/categories/pim)
