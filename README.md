@@ -70,6 +70,8 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Constructor.io](https://constructor.io) &mdash; Enterprise Product Discovery, Tailor-Made for eCommerce.
 - [Algolia](https://www.algolia.com) &mdash; Create cutting-edge UX for web, apps & ecommerce
 
+[Learn more about Search](https://headlesscommerce.org/categories/search)
+
 ## Tax
 
 ## Fraud Prevention
@@ -98,6 +100,8 @@ A community curated list of headless commerce related APIs, products, and servic
 
 - [Crystallize](https://crystallize.com) &mdash; Product information (PIM) and rich marketing content in one.
 
+[Learn more about a PIM](https://headlesscommerce.org/categories/pim)
+
 ## Support
 
 ## Address Verification
@@ -105,5 +109,9 @@ A community curated list of headless commerce related APIs, products, and servic
 ## Storefronts
 
 ## Content Federation
+
+- [GraphCMS](https://graphcms.com) &mdash; Rapidly Deliver Digital Content At Scale.
+- [Hasura](https://hasura.io) &mdash; Instant GraphQL for all your data.
+- [OneGraph](https://onegraph.com) &mdash; OneGraph is the easiest way to build integrations with 3rd-party services.
 
 ## Static Site Generators
