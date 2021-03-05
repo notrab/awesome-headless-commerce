@@ -7,6 +7,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Platforms](#platforms)
 - [Hybrids](#hybrids)
 - [Monoliths](monoliths)
+- [Infrastructure](#infrastructure)
 - [Cart and Checkout](#cart-and-checkout)
 - [Promotions](#promotions)
 - [Subscriptions](#subscriptions)
@@ -31,9 +32,24 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Platforms
 
+- [BigCommerce](https://www.bigcommerce.com) &mdash; Fuel your business with all the capabilities of enterprise—without the cost or complexity.
+- [commercelayer](https://commercelayer.io) &mdash; Headless Commerce for Global Brands.
+- [commercetools](https://commercetools.com) &mdash; The eCommerce Solution for Innovators and Visionaries.
+
 ## Hybrids
 
+- [Slatwall Commerce](https://www.slatwallcommerce.com) &mdash; More Than a Platform, a Framework for Commerce.
+- [Shopify plus](https://www.shopify.com/plus) &mdash; Flexible and fast to launch.
+
 ## Monoliths
+
+- [Magento](https://magento.com) &mdash; Create engaging, shoppable experiences with Magento Commerce.
+- [BigCommerce essentials](https://www.bigcommerce.com/essentials) &mdash; Get started with powerful, built-in tools to build a better online business.
+- [Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview) &mdash; Grow faster with customer-first ecommerce.
+
+## Infrastructure
+
+- [Commerce.js]https://commercejs.com) &mdash; Design, build, and control your eCommerce using our APIs and dashboard. Experience control meets integration flexibility.
 
 ## Cart and Checkout
 
@@ -73,6 +89,8 @@ A community curated list of headless commerce related APIs, products, and servic
 ## CMS
 
 ## PIM
+
+- [Crystallize](https://crystallize.com) &mdash; Product information (PIM) and rich marketing content in one.
 
 ## Support
 
