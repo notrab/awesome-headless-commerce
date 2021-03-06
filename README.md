@@ -119,7 +119,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 - Sift
 
-## Payments
+## Payments
 
 - Braintree
 - Adyen
