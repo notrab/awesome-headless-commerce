@@ -27,7 +27,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [OMS](#oms)
 - [Support](#support)
 - [Address Verification](#address-verification)
-- [Automation](#automation)
+- [Automation and Operations](#automation-and-operations)
 - [Content Federation](#content-federation)
 - [Storefronts](#storefronts)
 - [Static Site Generators](#static-site-generators)
@@ -75,12 +75,18 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## CMS
 
-- GraphCMS
-- Prismic
-- Sanity
-- Strapi
-- Contentful
-- ButterCMS
+- [GraphCMS](https://graphcms.com) &mdash; Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
+- [Prismic](https://prismic.io) &mdash; Make your website editable for the whole team.
+- [ButterCMS](https://buttercms.com) &mdash; Easy to use marketing dashboard. Fast content API for modern apps.
+- [Sanity](https://www.sanity.io) &mdash; Sanity is the ultimate content platform that helps teams dream big and deliver quickly.
+- [Strapi](https://strapi.io) &mdash; Design APIs fast, manage content easily.
+- [Contentful](https://www.contentful.com) &mdash; The content platform to build digital at scale.
+- [Shogun](https://getshogun.com) &mdash; Shogun empowers brands to create unique ecommerce experiences by making it easy to build and optimize online stores.
+- [Cosmic.js](https://www.cosmicjs.com) &mdash; The faster way to manage content.
+- [LexasCMS](https://www.lexascms.com) &mdash; An e-commerce focused headless CMS with built-in support for personalisation, scheduling, and visual previews.
+- [Storyblok](https://www.storyblok.com) &mdash; Storyblok helps your team to tell your story and manage content for every use-case.
+
+[Learn more about CMS](https://headlesscommerce.org/categories/cms)
 
 ## PIM
 
@@ -117,31 +123,37 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Fraud Prevention
 
-- Sift
+- [Sift](https://sift.com) &mdash; Fraud prevention solutions that enable your business to innovate & grow without increased risk.
+
+[Learn more about Fraud Prevention](https://headlesscommerce.org/categories/fraud)
 
 ## Payments
 
-- Braintree
-- Adyen
-- Stripe
+- [Braintree](https://www.braintreepayments.com) &mdash; The only payments platform that delivers PayPal, Venmo (in the US), credit and debit cards, and popular digital wallets.
+- [Adyen](https://www.adyen.com) &mdash; Accept payments everywhere.
+- [Stripe](https://stripe.com) &mdash; Online payment processing for internet businesses.
+
+[Learn more about Payments](https://headlesscommerce.org/categories/payment-gateways)
 
 ## Shipping and Fulfillment
 
-- ShipStation
-- ShipEngine
-- Stitchlabs
-- Shippo
-- easypost
+- [ShipStation](https://www.shipstation.com) &mdash; The Multichannel Order & Delivery Management Platform With 100+ Integrations.
+- [ShipEngine](https://www.shipengine.com) &mdash; Discover the new standard in multi-carrier shipping and logistics.
+- [Shippo](https://goshippo.com) &mdash; The absolute best rates from top carriers and everything you need for professional shipping in one place.
+- [easypost](https://www.easypost.com) &mdash; Create labels in a few clicks and save up to 74% or use our modern Shipping API with tracking, address verification, and customs for USPS, FedEx, UPS, DHL, plus many more.
 
 ## Hosting and Deployment
 
 - [Vercel](https://vercel.com/home) &mdash; Develop. Preview. Ship.
+- [Fastly](https://www.fastly.com) &mdash; Deliver faster, more powerful sites and applications on our secure, programmable edge cloud platform.
 - [Firebase](https://firebase.google.com) &mdash; Accelerate app development with fully managed infrastructure.
 - [Netlify](https://www.netlify.com) &mdash; An intuitive git-based workflow. A powerful serverless platform for Jamstack.
-- Heroku
-- Azure
-- Google Cloud
-- AWS
+- [Heroku](https://www.heroku.com) &mdash; Developers, teams, and businesses of all sizes use Heroku to deploy, manage, and scale apps.
+- [Azure](https://azure.microsoft.com) &mdash; Build what you want, where you want.
+- [Google Cloud](https://cloud.google.com) &mdash; Build apps faster, make smarter business decisions, and connect people anywhere.
+- [AWS](https://aws.amazon.com) &mdash; Whether you're looking for compute power, database storage, content delivery, AWS has the services to help you build sophisticated applications.
+
+[Learn more about Hosting and Deployment](https://headlesscommerce.org/categories/hosting)
 
 ## Auth and Identity
 
@@ -152,20 +164,22 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Communication
 
-- Postmark
-- Twilio
-- Mailgun
-- SendGrid
-- customer.io
+- [Postmark](https://postmarkapp.com) &mdash; Reliable delivery for your application emails.
+- [Twilio](http://twilio.com) &mdash; Engage customers on any channel, any time.
+- [Mailgun](https://www.mailgun.com) &mdash; The Email Service for Developers.
+- [SendGrid](https://sendgrid.com) &mdash; Send Shipping Notifications, Email Notifications, Password resets, Promotional Emails, and more with confidence.
+- [customer.io](https://customer.io) &mdash; Build your dream messaging workflows.
+
+[Learn more about Communication](https://headlesscommerce.org/categories/communication)
 
 ## Reviews
 
-- REVIEWS.io
-- Trustpilot
+- [REVIEWS.io](https://reviews.io) &mdash; Read & Write Genuine Reviews.
+- [Trustpilot](https://www.trustpilot.com) &mdash; Behind every review is an experience that matters.
 
 ## Analytics
 
-- Fathom Analytics
+- [Fathom Analytics](https://usefathom.com) &mdash; Your website analytics should be simple, fast and privacy-focused.
 
 ## DAM
 
@@ -173,22 +187,25 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## OMS
 
-- Orderhive
+- [Orderhive](https://www.orderhive.com) &mdash; Automate every step of your business.
 
 ## Support
 
-- Intercom
-- Zendesk
-- HelpScout
+- [Intercom](https://www.intercom.com) &mdash; The Business Messenger you and your customers will love
+- [Zendesk](https://www.zendesk.com) &mdash; Zendesk makes customer service better. We build software to meet customer needs, set your team up for success, and keep your business in sync.
+- [HelpScout](https://www.helpscout.com) &mdash; An all-in-one customer service platform that helps you balance everything your customers need to be happy.
 
 ## Address Verification
 
 - [What3Words](https://what3words.com) &mdash; Addressing the world with three fixed, geographically encoded words.
 
-## Automation
+## Automation and Operations
 
-- Alloy
-- API2Cart
+- [Alloy](https://runalloy.com) &mdash; Alloy Automation is a no-code tool for ecommerce brands to automate operational workflows.
+- [API2Cart](https://api2cart.com) &mdash; Connect and Work with 40+ eCommerce Platforms through One API Integration.
+- [Stitchlabs](https://www.stitchlabs.com) &mdash; Manage your operations all in one place with Stitch.
+
+[Learn more about Automation and Operations](https://headlesscommerce.org/categories/operations)
 
 ## Content Federation
 
@@ -199,15 +216,15 @@ A community curated list of headless commerce related APIs, products, and servic
 ## Storefronts
 
 - [Payhere](https://payhere.co) &mdash; Easy payment links to help you collect payments online.
-- Vue storefront
-- [Front-Commerce](https://www.front-commerce.com) &mdash; Headless PWA frontend for any eCommerce.
-- commerce-ui
+- [Vue storefront]() &mdash; Headless PWA frontend for any eCommerce.
+- [commerce-ui](https://commerce-ui.com) &mdash; We build storefronts for headless ecommerce.
 - [Frontastic](https://www.frontastic.cloud) &mdash; Rapidly create and evolve mobile first frontends for the API economy.
-- Shogun
-- Nacelle
+- [Front-Commerce](https://www.front-commerce.com) &mdash; PWA frontend for headless eCommerce.
+- [Nacelle](https://nacelle.com) &mdash; Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
 
 ## Static Site Generators
 
-- Gatsby
-- Gridsome
-- Next.js
+- [Next.js](https://nextjs.org) &mdash; The React Framework for Production.
+- [Gatsby](https://www.gatsbyjs.com) &mdash; The fastest frontend for the modern web.
+- [Gridsome](https://gridsome.org) &mdash; A Jamstack framework for Vue.js.
+- [Hugo](https://gohugo.io) &mdash; The world’s fastest framework for building websites.
