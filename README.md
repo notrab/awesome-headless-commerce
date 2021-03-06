@@ -185,7 +185,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 - [What3Words](https://what3words.com) &mdash; Addressing the world with three fixed, geographically encoded words.
 
-## Automation
+## Automation
 
 - Alloy
 - API2Cart
