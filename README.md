@@ -75,6 +75,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## CMS
 
+- [Plasmic](https://plasmic.app) &mdash; Headless CMS plus full visual page builder that lets you drag and drop React components from your own codebase, so content editors can create landing pages and more without any developer involvement.
 - [GraphCMS](https://graphcms.com) &mdash; Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
 - [Prismic](https://prismic.io) &mdash; Make your website editable for the whole team.
 - [ButterCMS](https://buttercms.com) &mdash; Easy to use marketing dashboard. Fast content API for modern apps.
@@ -215,6 +216,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Storefronts
 
+- [Plasmic](https://plasmic.app) &mdash; Visual page builder for Next.js, Gatsby, and any other tech stack, so content creators can create landing pages and more without developer involvement.
 - [Payhere](https://payhere.co) &mdash; Easy payment links to help you collect payments online.
 - [Vue storefront]() &mdash; Headless PWA frontend for any eCommerce.
 - [commerce-ui](https://commerce-ui.com) &mdash; We build storefronts for headless ecommerce.
