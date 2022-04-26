@@ -42,7 +42,9 @@ A community curated list of headless commerce related APIs, products, and servic
 - [BigCommerce](https://www.bigcommerce.com) &mdash; Fuel your business with all the capabilities of enterprise—without the cost or complexity.
 - [commercelayer](https://commercelayer.io) &mdash; Headless Commerce for Global Brands.
 - [commercetools](https://commercetools.com) &mdash; The eCommerce Solution for Innovators and Visionaries.
-- [Medusa](https://www.medusajs.com)
+- [Medusa](https://www.medusajs.com) &mdash; Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+
+
 
 ## Hybrids
 
