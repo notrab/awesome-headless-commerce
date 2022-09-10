@@ -4,7 +4,6 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Contents
 
-- [Infrastructure](#infrastructure)
 - [Platforms](#platforms)
 - [Hybrids](#hybrids)
 - [Monoliths](monoliths)
@@ -32,10 +31,6 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Storefronts](#storefronts)
 - [Static Site Generators](#static-site-generators)
 
-## Infrastructure
-
-- [Commerce.js](https://commercejs.com) &mdash; Design, build, and control your eCommerce using our APIs, and dashboard.
-
 ## Platforms
 
 - [Swell](https://www.swell.is) &mdash; Swell is the most powerful headless ecommerce platform for modern brands, startups, and agencies.
@@ -44,8 +39,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [commercetools](https://commercetools.com) &mdash; The eCommerce Solution for Innovators and Visionaries.
 - [Medusa](https://www.medusajs.com) &mdash; Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 - [Unchained Engine](https://unchained.shop/unchained-engine) &mdash; Unchained Engine is an API-driven and Open-Source E-Commerce Framework for Node.js
-
-
+- [Commerce.js](https://commercejs.com) &mdash; Design, build, and control your eCommerce using our APIs, and dashboard.
 
 ## Hybrids
 
@@ -62,11 +56,8 @@ A community curated list of headless commerce related APIs, products, and servic
 
 - [CartQL](https://cartql.com) &mdash; GraphQL shopping cart and checkout API built to work with your existing inventory.
 - [Snipcart](https://snipcart.com) &mdash; Add a shopping cart to any website.
-- [Fast](https://fast.co) &mdash; One click. No passwords. The world's fastest checkout.
 - [Bolt](https://www.bolt.com) &mdash; One Click Checkout.
 - [Foxy](https://foxy.io) &mdash; Foxy’s hosted cart & payment page allow you to sell anything, using your existing website or platform.
-
-[Learn more about Cart and Checkout](https://headlesscommerce.org/categories/cart-and-checkout)
 
 ## Subscriptions
 
@@ -74,11 +65,8 @@ A community curated list of headless commerce related APIs, products, and servic
 - [ReCharge](https://rechargepayments.com) &mdash; Powering Subscriptions For The Fastest Growing Brands.
 - [SubscribePro](https://subscribepro.com) &mdash; Enabling autoship, auto-replenishment, subscription boxes, and recurring billing.
 
-[Learn more about Subscriptions](https://headlesscommerce.org/categories/subscriptions)
-
 ## CMS
 
-- [GraphCMS](https://graphcms.com) &mdash; Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
 - [Prismic](https://prismic.io) &mdash; Make your website editable for the whole team.
 - [ButterCMS](https://buttercms.com) &mdash; Easy to use marketing dashboard. Fast content API for modern apps.
 - [Sanity](https://www.sanity.io) &mdash; Sanity is the ultimate content platform that helps teams dream big and deliver quickly.
@@ -89,15 +77,11 @@ A community curated list of headless commerce related APIs, products, and servic
 - [LexasCMS](https://www.lexascms.com) &mdash; An e-commerce focused headless CMS with built-in support for personalisation, scheduling, and visual previews.
 - [Storyblok](https://www.storyblok.com) &mdash; Storyblok helps your team to tell your story and manage content for every use-case.
 
-[Learn more about CMS](https://headlesscommerce.org/categories/cms)
-
 ## PIM
 
 - [akeneo](https://www.akeneo.com) &mdash; Create superior product experiences
 - [Salsify](https://www.salsify.com) &mdash; Commerce Experience Management for the Digital Shelf.
 - [Crystallize](https://crystallize.com) &mdash; Product information (PIM) and rich marketing content in one.
-
-[Learn more about a PIM](https://headlesscommerce.org/categories/pim)
 
 ## Promotions
 
@@ -106,15 +90,11 @@ A community curated list of headless commerce related APIs, products, and servic
 - [CartHook](https://carthook.com) &mdash; Add post-purchase upsells and grow your average order value.
 - [Lightrail](https://www.lightrail.com) &mdash; Promos, gift cards, loyalty. One API.
 
-[Learn more about Promotions](https://headlesscommerce.org/categories/promotions)
-
 ## Search
 
 - [Elastic](https://www.elastic.co/elasticsearch) &mdash; Elasticsearch is a distributed, RESTful search and analytics engine.
 - [Constructor.io](https://constructor.io) &mdash; Enterprise Product Discovery, Tailor-Made for eCommerce.
 - [Algolia](https://www.algolia.com) &mdash; Create cutting-edge UX for web, apps & ecommerce.
-
-[Learn more about Search](https://headlesscommerce.org/categories/search)
 
 ## Tax
 
@@ -122,21 +102,15 @@ A community curated list of headless commerce related APIs, products, and servic
 - [TaxCloud](https://taxcloud.com) &mdash; Worry-Free Sales Tax.
 - [Avalara](https://www.avalara.com) &mdash; Simplify tax compliance with automation.
 
-[Learn more about Tax](https://headlesscommerce.org/categories/tax)
-
 ## Fraud Prevention
 
 - [Sift](https://sift.com) &mdash; Fraud prevention solutions that enable your business to innovate & grow without increased risk.
-
-[Learn more about Fraud Prevention](https://headlesscommerce.org/categories/fraud)
 
 ## Payments
 
 - [Braintree](https://www.braintreepayments.com) &mdash; The only payments platform that delivers PayPal, Venmo (in the US), credit and debit cards, and popular digital wallets.
 - [Adyen](https://www.adyen.com) &mdash; Accept payments everywhere.
 - [Stripe](https://stripe.com) &mdash; Online payment processing for internet businesses.
-
-[Learn more about Payments](https://headlesscommerce.org/categories/payment-gateways)
 
 ## Shipping and Fulfillment
 
@@ -156,14 +130,10 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Google Cloud](https://cloud.google.com) &mdash; Build apps faster, make smarter business decisions, and connect people anywhere.
 - [AWS](https://aws.amazon.com) &mdash; Whether you're looking for compute power, database storage, content delivery, AWS has the services to help you build sophisticated applications.
 
-[Learn more about Hosting and Deployment](https://headlesscommerce.org/categories/hosting)
-
 ## Auth and Identity
 
 - [Auth0](https://auth0.com) &mdash; Auth0 is an easy to implement, adaptable authentication and authorization platform.
 - [Magic Link](https://magic.link) &mdash; One SDK for passwordless, WebAuthn, and social login - fully customizable.
-
-[Learn more about Auth and Identity](https://headlesscommerce.org/categories/authentication)
 
 ## Communication
 
@@ -172,8 +142,6 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Mailgun](https://www.mailgun.com) &mdash; The Email Service for Developers.
 - [SendGrid](https://sendgrid.com) &mdash; Send Shipping Notifications, Email Notifications, Password resets, Promotional Emails, and more with confidence.
 - [customer.io](https://customer.io) &mdash; Build your dream messaging workflows.
-
-[Learn more about Communication](https://headlesscommerce.org/categories/communication)
 
 ## Reviews
 
@@ -208,13 +176,10 @@ A community curated list of headless commerce related APIs, products, and servic
 - [API2Cart](https://api2cart.com) &mdash; Connect and Work with 40+ eCommerce Platforms through One API Integration.
 - [Stitchlabs](https://www.stitchlabs.com) &mdash; Manage your operations all in one place with Stitch.
 
-[Learn more about Automation and Operations](https://headlesscommerce.org/categories/operations)
-
 ## Content Federation
 
-- [GraphCMS](https://graphcms.com) &mdash; Rapidly Deliver Digital Content At Scale.
 - [Hasura](https://hasura.io) &mdash; Instant GraphQL for all your data.
-- [OneGraph](https://onegraph.com) &mdash; OneGraph is the easiest way to build integrations with 3rd-party services.
+- [GraphQL Mesh](https://www.the-guild.dev/graphql/mesh) &mdash; Query anything, run anywhere.
 
 ## Storefronts
 
