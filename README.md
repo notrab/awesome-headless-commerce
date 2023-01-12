@@ -32,10 +32,6 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Storefronts](#storefronts)
 - [Static Site Generators](#static-site-generators)
 
-## Infrastructure
-
-- [Commerce.js](https://commercejs.com) &mdash; Design, build, and control your eCommerce using our APIs, and dashboard.
-
 ## Platforms
 
 - [Swell](https://www.swell.is) &mdash; Swell is the most powerful headless ecommerce platform for modern brands, startups, and agencies.
@@ -75,8 +71,6 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## CMS
 
-- [Plasmic](https://plasmic.app) &mdash; Headless CMS plus full visual page builder that lets you drag and drop React components from your own codebase, so content editors can create landing pages and more without any developer involvement.
-- [GraphCMS](https://graphcms.com) &mdash; Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
 - [Prismic](https://prismic.io) &mdash; Make your website editable for the whole team.
 - [ButterCMS](https://buttercms.com) &mdash; Easy to use marketing dashboard. Fast content API for modern apps.
 - [Sanity](https://www.sanity.io) &mdash; Sanity is the ultimate content platform that helps teams dream big and deliver quickly.
@@ -86,6 +80,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Cosmic.js](https://www.cosmicjs.com) &mdash; The faster way to manage content.
 - [LexasCMS](https://www.lexascms.com) &mdash; An e-commerce focused headless CMS with built-in support for personalisation, scheduling, and visual previews.
 - [Storyblok](https://www.storyblok.com) &mdash; Storyblok helps your team to tell your story and manage content for every use-case.
+- [Boundless Commerce](https://boundless-commerce.com) &mdash; API’s First Headless eCommerce Platform. Free Next.js Templates! Just clone & deploy!
 
 [Learn more about CMS](https://headlesscommerce.org/categories/cms)
 
@@ -160,6 +155,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 - [Auth0](https://auth0.com) &mdash; Auth0 is an easy to implement, adaptable authentication and authorization platform.
 - [Magic Link](https://magic.link) &mdash; One SDK for passwordless, WebAuthn, and social login - fully customizable.
+- [Clerk](https://clerk.dev/) &mdash; More than authentication. Complete User Management.
 
 [Learn more about Auth and Identity](https://headlesscommerce.org/categories/authentication)
 
@@ -210,19 +206,18 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Content Federation
 
-- [GraphCMS](https://graphcms.com) &mdash; Rapidly Deliver Digital Content At Scale.
 - [Hasura](https://hasura.io) &mdash; Instant GraphQL for all your data.
 - [OneGraph](https://onegraph.com) &mdash; OneGraph is the easiest way to build integrations with 3rd-party services.
 
 ## Storefronts
 
-- [Plasmic](https://plasmic.app) &mdash; Visual page builder for Next.js, Gatsby, and any other tech stack, so content creators can create landing pages and more without developer involvement.
 - [Payhere](https://payhere.co) &mdash; Easy payment links to help you collect payments online.
 - [Vue storefront]() &mdash; Headless PWA frontend for any eCommerce.
 - [commerce-ui](https://commerce-ui.com) &mdash; We build storefronts for headless ecommerce.
 - [Frontastic](https://www.frontastic.cloud) &mdash; Rapidly create and evolve mobile first frontends for the API economy.
 - [Front-Commerce](https://www.front-commerce.com) &mdash; PWA frontend for headless eCommerce.
 - [Nacelle](https://nacelle.com) &mdash; Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
+- [Plasmic](https://plasmic.app) &mdash; Visual page builder for Next.js, Gatsby, and any other tech stack, so content creators can create landing pages and more without developer involvement.
 
 ## Static Site Generators
 
