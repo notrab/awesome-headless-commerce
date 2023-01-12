@@ -31,19 +31,22 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Storefronts](#storefronts)
 - [Static Site Generators](#static-site-generators)
 
-## Platforms
+## Headless Platforms
 
 - [Swell](https://www.swell.is) &mdash; Swell is the most powerful headless ecommerce platform for modern brands, startups, and agencies.
-- [BigCommerce](https://www.bigcommerce.com) &mdash; Fuel your business with all the capabilities of enterprise—without the cost or complexity.
 - [commercelayer](https://commercelayer.io) &mdash; Headless Commerce for Global Brands.
 - [commercetools](https://commercetools.com) &mdash; The eCommerce Solution for Innovators and Visionaries.
 - [Medusa](https://www.medusajs.com) &mdash; Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 - [Unchained Engine](https://unchained.shop/unchained-engine) &mdash; Unchained Engine is an API-driven and Open-Source E-Commerce Framework for Node.js
 - [Commerce.js](https://commercejs.com) &mdash; Design, build, and control your eCommerce using our APIs, and dashboard.
+- [Vendure](https://www.vendure.io/) &mdash; A headless GraphQL ecommerce framework built on Node.js with Nest & TypeScript, with a focus on developer productivity and ease of customization.
+- [Chord](https://chord.co/) &mdash; The API-first, Data-first Commerce Platform. Created by experts in DTC innovation.
+- [Saleor](https://saleor.io/) &mdash; A GraphQL-first, headless e-commerce platform for perfectionists.
 - [Boundless Commerce](https://boundless-commerce.com) &mdash; API’s First Headless eCommerce Platform. Free Next.js Templates! Just clone & deploy!
 
 ## Hybrids
 
+- [BigCommerce](https://www.bigcommerce.com) &mdash; Fuel your business with all the capabilities of enterprise—without the cost or complexity.
 - [Slatwall Commerce](https://www.slatwallcommerce.com) &mdash; More Than a Platform, a Framework for Commerce.
 - [Shopify plus](https://www.shopify.com/plus) &mdash; Flexible and fast to launch.
 
@@ -59,12 +62,14 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Snipcart](https://snipcart.com) &mdash; Add a shopping cart to any website.
 - [Bolt](https://www.bolt.com) &mdash; One Click Checkout.
 - [Foxy](https://foxy.io) &mdash; Foxy’s hosted cart & payment page allow you to sell anything, using your existing website or platform.
+- [Rally](https://rallyon.com) &mdash; A better, more profitable checkout for your brand.
 
 ## Subscriptions
 
 - [Recurly](https://recurly.com) &mdash; The subscription management platform delivering unrivaled results to smart brands worldwide.
 - [ReCharge](https://rechargepayments.com) &mdash; Powering Subscriptions For The Fastest Growing Brands.
 - [SubscribePro](https://subscribepro.com) &mdash; Enabling autoship, auto-replenishment, subscription boxes, and recurring billing.
+- [Smartrr](https://smartrr.com/) &mdash; Seamless checkout and customer portal experience for their subscribers.
 
 ## CMS
 
@@ -96,6 +101,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Elastic](https://www.elastic.co/elasticsearch) &mdash; Elasticsearch is a distributed, RESTful search and analytics engine.
 - [Constructor.io](https://constructor.io) &mdash; Enterprise Product Discovery, Tailor-Made for eCommerce.
 - [Algolia](https://www.algolia.com) &mdash; Create cutting-edge UX for web, apps & ecommerce.
+- [Meilisearch](https://www.meilisearch.com/) &mdash; An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 
 ## Tax
 
@@ -185,11 +191,12 @@ A community curated list of headless commerce related APIs, products, and servic
 ## Storefronts
 
 - [Payhere](https://payhere.co) &mdash; Easy payment links to help you collect payments online.
-- [Vue storefront]() &mdash; Headless PWA frontend for any eCommerce.
+- [Vue storefront](https://vuestorefront.io/) &mdash; Headless PWA frontend for any eCommerce.
 - [commerce-ui](https://commerce-ui.com) &mdash; We build storefronts for headless ecommerce.
 - [Frontastic](https://www.frontastic.cloud) &mdash; Rapidly create and evolve mobile first frontends for the API economy.
 - [Front-Commerce](https://www.front-commerce.com) &mdash; PWA frontend for headless eCommerce.
 - [Nacelle](https://nacelle.com) &mdash; Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
+- [Builder.io](https://www.builder.io/) &mdash; Drag and drop visual CMS for your eCommerce storefront.
 
 ## Static Site Generators
 
