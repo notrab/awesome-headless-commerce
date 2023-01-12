@@ -82,6 +82,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Cosmic.js](https://www.cosmicjs.com) &mdash; The faster way to manage content.
 - [LexasCMS](https://www.lexascms.com) &mdash; An e-commerce focused headless CMS with built-in support for personalisation, scheduling, and visual previews.
 - [Storyblok](https://www.storyblok.com) &mdash; Storyblok helps your team to tell your story and manage content for every use-case.
+- [Boundless Commerce](https://boundless-commerce.com) &mdash; API’s First Headless eCommerce Platform. Free Next.js Templates! Just clone & deploy!
 
 ## PIM
 
@@ -141,6 +142,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 - [Auth0](https://auth0.com) &mdash; Auth0 is an easy to implement, adaptable authentication and authorization platform.
 - [Magic Link](https://magic.link) &mdash; One SDK for passwordless, WebAuthn, and social login - fully customizable.
+- [Clerk](https://clerk.dev/) &mdash; More than authentication. Complete User Management.
 
 ## Communication
 
@@ -197,6 +199,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Front-Commerce](https://www.front-commerce.com) &mdash; PWA frontend for headless eCommerce.
 - [Nacelle](https://nacelle.com) &mdash; Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
 - [Builder.io](https://www.builder.io/) &mdash; Drag and drop visual CMS for your eCommerce storefront.
+- [Plasmic](https://plasmic.app) &mdash; Visual page builder for Next.js, Gatsby, and any other tech stack, so content creators can create landing pages and more without developer involvement.
 
 ## Static Site Generators
 
