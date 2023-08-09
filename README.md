@@ -189,6 +189,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 - [Hasura](https://hasura.io) &mdash; Instant GraphQL for all your data.
 - [GraphQL Mesh](https://www.the-guild.dev/graphql/mesh) &mdash; Query anything, run anywhere.
+- [Graphweaver](https://github.com/exogee-technology/graphweaver) &mdash; Turn multiple data sources into a single GraphQL API.
 
 ## Storefronts
 
