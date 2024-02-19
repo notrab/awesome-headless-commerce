@@ -141,6 +141,7 @@ A community curated list of headless commerce related APIs, products, and servic
 ## Auth and Identity
 
 - [Auth0](https://auth0.com) &mdash; Auth0 is an easy to implement, adaptable authentication and authorization platform.
+- [Ory](https://www.ory.sh/) &mdash; Ory helps you solve authentication and authorization fast, efficient, secure and is compliant with regulatory frameworks like GDPR, CCPA, PIPA.
 - [Magic Link](https://magic.link) &mdash; One SDK for passwordless, WebAuthn, and social login - fully customizable.
 - [Clerk](https://clerk.dev/) &mdash; More than authentication. Complete User Management.
 
