@@ -181,6 +181,5 @@ A community curated list of headless commerce related APIs, products, and servic
 ## Static Site Generators
 
 - [Next.js](https://nextjs.org) &mdash; The React Framework for Production.
-- [Gatsby](https://www.gatsbyjs.com) &mdash; The fastest frontend for the modern web.
-- [Gridsome](https://gridsome.org) &mdash; A Jamstack framework for Vue.js.
 - [Hugo](https://gohugo.io) &mdash; The world’s fastest framework for building websites.
+- [Astro](https://astro.build/) &mdash; The web framework for content-driven websites.
