@@ -38,7 +38,6 @@ A community curated list of headless commerce related APIs, products, and servic
 - [commercetools](https://commercetools.com) &mdash; The eCommerce Solution for Innovators and Visionaries.
 - [Medusa](https://www.medusajs.com) &mdash; Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 - [Unchained Engine](https://unchained.shop/unchained-engine) &mdash; Unchained Engine is an API-driven and Open-Source E-Commerce Framework for Node.js
-- [Commerce.js](https://commercejs.com) &mdash; Design, build, and control your eCommerce using our APIs, and dashboard.
 - [Vendure](https://www.vendure.io/) &mdash; A headless GraphQL ecommerce framework built on Node.js with Nest & TypeScript, with a focus on developer productivity and ease of customization.
 - [Chord](https://chord.co/) &mdash; The API-first, Data-first Commerce Platform. Created by experts in DTC innovation.
 - [Saleor](https://saleor.io/) &mdash; A GraphQL-first, headless e-commerce platform for perfectionists.
@@ -70,6 +69,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [ReCharge](https://rechargepayments.com) &mdash; Powering Subscriptions For The Fastest Growing Brands.
 - [SubscribePro](https://subscribepro.com) &mdash; Enabling autoship, auto-replenishment, subscription boxes, and recurring billing.
 - [Smartrr](https://smartrr.com/) &mdash; Seamless checkout and customer portal experience for their subscribers.
+- [lemon squeezy](https://www.lemonsqueezy.com) &mdash; Payments, tax & subscriptions for software companies.
 
 ## CMS
 
@@ -82,7 +82,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Cosmic.js](https://www.cosmicjs.com) &mdash; The faster way to manage content.
 - [LexasCMS](https://www.lexascms.com) &mdash; An e-commerce focused headless CMS with built-in support for personalisation, scheduling, and visual previews.
 - [Storyblok](https://www.storyblok.com) &mdash; Storyblok helps your team to tell your story and manage content for every use-case.
-- [Boundless Commerce](https://boundless-commerce.com) &mdash; API’s First Headless eCommerce Platform. Free Next.js Templates! Just clone & deploy!
+- [Hygraph](https://hygraph.com) &mdash; The headless CMS powering content for mission-critical applications.
 
 ## PIM
 
@@ -126,6 +126,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [ShipEngine](https://www.shipengine.com) &mdash; Discover the new standard in multi-carrier shipping and logistics.
 - [Shippo](https://goshippo.com) &mdash; The absolute best rates from top carriers and everything you need for professional shipping in one place.
 - [easypost](https://www.easypost.com) &mdash; Create labels in a few clicks and save up to 74% or use our modern Shipping API with tracking, address verification, and customs for USPS, FedEx, UPS, DHL, plus many more.
+- [Openship](https://openship.org/) &mdash; Multi-channel fulfilment at scale
 
 ## Hosting and Deployment
 
@@ -144,6 +145,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Ory](https://www.ory.sh/) &mdash; Ory helps you solve authentication and authorization fast, efficient, secure and is compliant with regulatory frameworks like GDPR, CCPA, PIPA.
 - [Magic Link](https://magic.link) &mdash; One SDK for passwordless, WebAuthn, and social login - fully customizable.
 - [Clerk](https://clerk.dev/) &mdash; More than authentication. Complete User Management.
+- [WorkOS](https://workos.com) &mdash; Your app, Enterprise Ready.
 
 ## Communication
 
@@ -152,6 +154,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Mailgun](https://www.mailgun.com) &mdash; The Email Service for Developers.
 - [SendGrid](https://sendgrid.com) &mdash; Send Shipping Notifications, Email Notifications, Password resets, Promotional Emails, and more with confidence.
 - [customer.io](https://customer.io) &mdash; Build your dream messaging workflows.
+- [Resend](https://resend.com) &mdash; Email for developers.
 
 ## Reviews
 
@@ -161,6 +164,7 @@ A community curated list of headless commerce related APIs, products, and servic
 ## Analytics
 
 - [Fathom Analytics](https://usefathom.com) &mdash; Your website analytics should be simple, fast and privacy-focused.
+- [Plausible](https://plausible.io) &mdash; Easy to use and privacy-friendly Google Analytics alternative.
 
 ## DAM
 
