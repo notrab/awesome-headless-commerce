@@ -2,35 +2,6 @@
 
 A community curated list of headless commerce related APIs, products, and services. A heads-up for modern store builders.
 
-## Contents
-
-- [Platforms](#platforms)
-- [Hybrids](#hybrids)
-- [Monoliths](monoliths)
-- [Cart and Checkout](#cart-and-checkout)
-- [Subscriptions](#subscriptions)
-- [CMS](#cms)
-- [PIM](#pim)
-- [Promotions](#promotions)
-- [Search](#search)
-- [Tax](#tax)
-- [Fraud Prevention](#fraud-prevention)
-- [Payments](#payments)
-- [Shipping and Fulfillment](#shipping-and-fulfillment)
-- [Hosting and Deployment](#hosting-and-deployment)
-- [Auth and Identity](#auth-and-identity)
-- [Communication](#communication)
-- [Reviews](#reviews)
-- [Analytics](#analytics)
-- [DAM](#dam)
-- [OMS](#oms)
-- [Support](#support)
-- [Address Verification](#address-verification)
-- [Automation and Operations](#automation-and-operations)
-- [Content Federation](#content-federation)
-- [Storefronts](#storefronts)
-- [Static Site Generators](#static-site-generators)
-
 ## Headless Platforms
 
 - [Swell](https://www.swell.is) &mdash; Swell is the most powerful headless ecommerce platform for modern brands, startups, and agencies.
