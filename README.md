@@ -54,6 +54,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [LexasCMS](https://www.lexascms.com) &mdash; An e-commerce focused headless CMS with built-in support for personalisation, scheduling, and visual previews.
 - [Storyblok](https://www.storyblok.com) &mdash; Storyblok helps your team to tell your story and manage content for every use-case.
 - [Hygraph](https://hygraph.com) &mdash; The headless CMS powering content for mission-critical applications.
+- [PayloadCMS](https://payloadcms.com/) &mdash; The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. 
 
 ## PIM
 
