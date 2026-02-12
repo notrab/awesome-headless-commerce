@@ -14,6 +14,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Saleor](https://saleor.io/) &mdash; A GraphQL-first, headless e-commerce platform for perfectionists.
 - [Boundless Commerce](https://boundless-commerce.com) &mdash; API’s First Headless eCommerce Platform. Free Next.js Templates! Just clone & deploy!
 - [Bagisto Headless Commerce](https://bagisto.com/en/headless-ecommerce/) — The Complete Open Source Headless eCommerce Platform for B2B, B2C, and Marketplace, powered by GraphQL for Lightning Performance and Flexibility
+- [OneEntry Platform](https://oneentry.cloud) — Headless CMS + headless commerce backend (BaaS) with unified API for content, catalog, orders and users; SDKs for JS/TS, Kotlin and Swift.
 
 ## Hybrids
 
@@ -55,7 +56,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [LexasCMS](https://www.lexascms.com) &mdash; An e-commerce focused headless CMS with built-in support for personalisation, scheduling, and visual previews.
 - [Storyblok](https://www.storyblok.com) &mdash; Storyblok helps your team to tell your story and manage content for every use-case.
 - [Hygraph](https://hygraph.com) &mdash; The headless CMS powering content for mission-critical applications.
-- [PayloadCMS](https://payloadcms.com/) &mdash; The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. 
+- [PayloadCMS](https://payloadcms.com/) &mdash; The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 
 ## PIM
 
