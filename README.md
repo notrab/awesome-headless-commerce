@@ -27,6 +27,10 @@ A community curated list of headless commerce related APIs, products, and servic
 - [BigCommerce essentials](https://www.bigcommerce.com/essentials) &mdash; Get started with powerful, built-in tools to build a better online business.
 - [Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview) &mdash; Grow faster with customer-first ecommerce.
 
+## AI Commerce Protocols
+
+- [UCP JavaScript SDK](https://github.com/OmnixHQ/ucp-js-sdk) &mdash; Runtime-validated Zod schemas and TypeScript types for the Universal Commerce Protocol (UCP). Auto-generated from the UCP JSON Schema spec with 100% coverage — checkout, orders, payments, payment handlers, fulfillment, discounts, buyer consent, AP2 mandates, discovery profiles (platform & business), identity linking, catalog, cart, and all inline enums. Supports MCP, A2A, REST, and Embedded transport bindings. Dual ESM/CJS build. Available on [npm](https://www.npmjs.com/package/@omnixhq/ucp-js-sdk).
+
 ## Cart and Checkout
 
 - [CartQL](https://cartql.com) &mdash; GraphQL shopping cart and checkout API built to work with your existing inventory.
