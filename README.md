@@ -182,6 +182,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Payhere](https://payhere.co) &mdash; Easy payment links to help you collect payments online.
 - [Vue storefront](https://vuestorefront.io/) &mdash; Headless PWA frontend for any eCommerce.
 - [commerce-ui](https://commerce-ui.com) &mdash; We build storefronts for headless ecommerce.
+- [GitHub Pages Storefront Starter](https://duct-tape2.github.io/github-pages-storefront-starter/) &mdash; MIT GitHub Pages template and checker for launching a small static storefront with payment links and public-safe buyer workflows.
 - [Frontastic](https://www.frontastic.cloud) &mdash; Rapidly create and evolve mobile first frontends for the API economy.
 - [Front-Commerce](https://www.front-commerce.com) &mdash; PWA frontend for headless eCommerce.
 - [Nacelle](https://nacelle.com) &mdash; Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
