@@ -35,6 +35,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Bolt](https://www.bolt.com) &mdash; One Click Checkout.
 - [Foxy](https://foxy.io) &mdash; Foxy’s hosted cart & payment page allow you to sell anything, using your existing website or platform.
 - [Rally](https://rallyon.com) &mdash; A better, more profitable checkout for your brand.
+- [HonorBox](https://honorboxx.github.io/honorbox/) &mdash; Open source checkout and fulfillment for digital products using only Stripe Payment Links and GitHub, with no server or platform fee.
 
 ## Subscriptions
 
