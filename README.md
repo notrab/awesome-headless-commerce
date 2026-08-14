@@ -58,7 +58,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [LexasCMS](https://www.lexascms.com) &mdash; An e-commerce focused headless CMS with built-in support for personalisation, scheduling, and visual previews.
 - [Storyblok](https://www.storyblok.com) &mdash; Storyblok helps your team to tell your story and manage content for every use-case.
 - [Hygraph](https://hygraph.com) &mdash; The headless CMS powering content for mission-critical applications.
-- [PayloadCMS](https://payloadcms.com/) &mdash; The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [PayloadCMS](https://payloadcms.com/) &mdash; The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. 
 - [UnfoldCMS](https://unfoldcms.com) &mdash; Self-hosted headless CMS with a REST API (42 endpoints), HMAC webhooks, and first-class support for Next.js, Astro, SvelteKit, and Nuxt.
 
 ## PIM
@@ -182,7 +182,6 @@ A community curated list of headless commerce related APIs, products, and servic
 ## Storefronts
 
 - [Payhere](https://payhere.co) &mdash; Easy payment links to help you collect payments online.
-- [WooNuxt](https://github.com/scottyzen/woonuxt) &mdash; A modern, fast, SEO-friendly Nuxt frontend for WooCommerce powered by WPGraphQL.
 - [Vue storefront](https://vuestorefront.io/) &mdash; Headless PWA frontend for any eCommerce.
 - [commerce-ui](https://commerce-ui.com) &mdash; We build storefronts for headless ecommerce.
 - [Frontastic](https://www.frontastic.cloud) &mdash; Rapidly create and evolve mobile first frontends for the API economy.
@@ -190,6 +189,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Nacelle](https://nacelle.com) &mdash; Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
 - [Builder.io](https://www.builder.io/) &mdash; Drag and drop visual CMS for your eCommerce storefront.
 - [Plasmic](https://plasmic.app) &mdash; Visual page builder for Next.js, Gatsby, and any other tech stack, so content creators can create landing pages and more without developer involvement.
+- [WooNuxt](https://woonuxt.com/) &mdash; A modern, fast, SEO-friendly Nuxt frontend for WooCommerce powered by WPGraphQL.
 
 ## Static Site Generators
 
