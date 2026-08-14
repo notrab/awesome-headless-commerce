@@ -189,6 +189,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Nacelle](https://nacelle.com) &mdash; Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
 - [Builder.io](https://www.builder.io/) &mdash; Drag and drop visual CMS for your eCommerce storefront.
 - [Plasmic](https://plasmic.app) &mdash; Visual page builder for Next.js, Gatsby, and any other tech stack, so content creators can create landing pages and more without developer involvement.
+- [WooNuxt](https://woonuxt.com/) &mdash; A modern, fast, SEO-friendly Nuxt frontend for WooCommerce powered by WPGraphQL.
 
 ## Static Site Generators
 
