@@ -182,7 +182,7 @@ A community curated list of headless commerce related APIs, products, and servic
 ## Storefronts
 
 - [Payhere](https://payhere.co) &mdash; Easy payment links to help you collect payments online.
-- [WooNuxt](https://woonuxt.com/) &mdash; A modern, fast, SEO-friendly Nuxt frontend for WooCommerce powered by WPGraphQL.
+- [WooNuxt](https://github.com/scottyzen/woonuxt) &mdash; A modern, fast, SEO-friendly Nuxt frontend for WooCommerce powered by WPGraphQL.
 - [Vue storefront](https://vuestorefront.io/) &mdash; Headless PWA frontend for any eCommerce.
 - [commerce-ui](https://commerce-ui.com) &mdash; We build storefronts for headless ecommerce.
 - [Frontastic](https://www.frontastic.cloud) &mdash; Rapidly create and evolve mobile first frontends for the API economy.
