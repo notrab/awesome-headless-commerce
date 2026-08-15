@@ -102,6 +102,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Shipping and Fulfillment
 
+- [CanWeShip](https://canweship.com/api-docs/) &mdash; Free, no-auth U.S. shipping guidance API with USPS, UPS, and FedEx preliminary checks and official source links.
 - [ShipStation](https://www.shipstation.com) &mdash; The Multichannel Order & Delivery Management Platform With 100+ Integrations.
 - [ShipEngine](https://www.shipengine.com) &mdash; Discover the new standard in multi-carrier shipping and logistics.
 - [Shippo](https://goshippo.com) &mdash; The absolute best rates from top carriers and everything you need for professional shipping in one place.
