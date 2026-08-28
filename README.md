@@ -138,6 +138,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [SendGrid](https://sendgrid.com) &mdash; Send Shipping Notifications, Email Notifications, Password resets, Promotional Emails, and more with confidence.
 - [customer.io](https://customer.io) &mdash; Build your dream messaging workflows.
 - [Resend](https://resend.com) &mdash; Email for developers.
+- [Nuntly](https://nuntly.com) &mdash; Developer-First Email Platform.
 
 ## Reviews
 
