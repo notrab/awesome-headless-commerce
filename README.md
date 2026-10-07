@@ -16,6 +16,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Boundless Commerce](https://boundless-commerce.com) &mdash; API’s First Headless eCommerce Platform. Free Next.js Templates! Just clone & deploy!
 - [Bagisto Headless Commerce](https://bagisto.com/en/headless-ecommerce/) — The Complete Open Source Headless eCommerce Platform for B2B, B2C, and Marketplace, powered by GraphQL for Lightning Performance and Flexibility
 - [Litekart](https://litekart.in) - Open-source Node.js + SvelteKit headless ecommerce. MIT licensed, multi-vendor built-in, REST APIs, AI Studio. 1,800+ GitHub stars. ([Source](https://github.com/itswadesh/svelte-commerce))
+- [Mercur](https://www.mercurjs.com) &mdash; Open-source headless marketplace platform built on Medusa: multi-vendor catalog, commissions, order splitting, and vendor payouts. ([Source](https://github.com/mercurjs/mercur))
 
 ## Hybrids
 
