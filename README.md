@@ -128,7 +128,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Magic Link](https://magic.link) &mdash; One SDK for passwordless, WebAuthn, and social login - fully customizable.
 - [Clerk](https://clerk.dev/) &mdash; More than authentication. Complete User Management.
 - [WorkOS](https://workos.com) &mdash; Your app, Enterprise Ready.
-- [Scalekit](https://www.scalekit.com) &mdash; Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
+- [Scalekit](https://www.scalekit.com) &mdash; Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
 - [SSOJet](https://ssojet.com) &mdash; Add Enterprise SSO Without Rebuilding Your Auth.
 
 ## Communication
