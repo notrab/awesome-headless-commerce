@@ -61,6 +61,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Hygraph](https://hygraph.com) &mdash; The headless CMS powering content for mission-critical applications.
 - [PayloadCMS](https://payloadcms.com/) &mdash; The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. 
 - [UnfoldCMS](https://unfoldcms.com) &mdash; Self-hosted headless CMS with a REST API (42 endpoints), HMAC webhooks, and first-class support for Next.js, Astro, SvelteKit, and Nuxt.
+- [Cmssy](https://www.cmssy.com) - Hosted headless CMS with built-in commerce: products, carts, orders, discounts, refunds and customer accounts. Your own Next.js, Astro or Remix app renders the store, payments stay with your provider, and an AI agent can run orders and content over MCP.
 
 ## PIM
 
