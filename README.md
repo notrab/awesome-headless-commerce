@@ -30,10 +30,6 @@ A community curated list of headless commerce related APIs, products, and servic
 - [BigCommerce essentials](https://www.bigcommerce.com/essentials) &mdash; Get started with powerful, built-in tools to build a better online business.
 - [Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview) &mdash; Grow faster with customer-first ecommerce.
 
-## AI Commerce Protocols
-
-- [UCP JavaScript SDK](https://github.com/OmnixHQ/ucp-js-sdk) &mdash; Runtime-validated Zod schemas and TypeScript types for the Universal Commerce Protocol (UCP). Auto-generated from the UCP JSON Schema spec with 100% coverage — checkout, orders, payments, payment handlers, fulfillment, discounts, buyer consent, AP2 mandates, discovery profiles (platform & business), identity linking, catalog, cart, and all inline enums. Supports MCP, A2A, REST, and Embedded transport bindings. Dual ESM/CJS build. Available on [npm](https://www.npmjs.com/package/@omnixhq/ucp-js-sdk).
-
 ## Cart and Checkout
 
 - [CartQL](https://cartql.com) &mdash; GraphQL shopping cart and checkout API built to work with your existing inventory.
@@ -110,13 +106,13 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Shipping and Fulfillment
 
-- [CanWeShip](https://canweship.com/api-docs/) &mdash; Free, no-auth U.S. shipping guidance API with USPS, UPS, and FedEx preliminary checks and official source links.
 - [ShipStation](https://www.shipstation.com) &mdash; The Multichannel Order & Delivery Management Platform With 100+ Integrations.
 - [ShipEngine](https://www.shipengine.com) &mdash; Discover the new standard in multi-carrier shipping and logistics.
 - [Shippo](https://goshippo.com) &mdash; The absolute best rates from top carriers and everything you need for professional shipping in one place.
 - [easypost](https://www.easypost.com) &mdash; Create labels in a few clicks and save up to 74% or use our modern Shipping API with tracking, address verification, and customs for USPS, FedEx, UPS, DHL, plus many more.
 - [Openship](https://openship.org/) &mdash; Multi-channel fulfilment at scale
 - [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) &mdash; Open packaging-fit calculator for testing carton, mailer, and poly mailer scenarios in ecommerce fulfillment.
+- [CanWeShip](https://canweship.com/api-docs/) &mdash; Free, no-auth U.S. shipping guidance API with USPS, UPS, and FedEx preliminary checks and official source links.
 
 ## Hosting and Deployment
 
@@ -194,16 +190,20 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Payhere](https://payhere.co) &mdash; Easy payment links to help you collect payments online.
 - [Vue storefront](https://vuestorefront.io/) &mdash; Headless PWA frontend for any eCommerce.
 - [commerce-ui](https://commerce-ui.com) &mdash; We build storefronts for headless ecommerce.
-- [GitHub Pages Storefront Starter](https://duct-tape2.github.io/github-pages-storefront-starter/) &mdash; MIT GitHub Pages template and checker for launching a small static storefront with payment links and public-safe buyer workflows.
 - [Frontastic](https://www.frontastic.cloud) &mdash; Rapidly create and evolve mobile first frontends for the API economy.
 - [Front-Commerce](https://www.front-commerce.com) &mdash; PWA frontend for headless eCommerce.
 - [Nacelle](https://nacelle.com) &mdash; Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
 - [Builder.io](https://www.builder.io/) &mdash; Drag and drop visual CMS for your eCommerce storefront.
 - [Plasmic](https://plasmic.app) &mdash; Visual page builder for Next.js, Gatsby, and any other tech stack, so content creators can create landing pages and more without developer involvement.
 - [WooNuxt](https://woonuxt.com/) &mdash; A modern, fast, SEO-friendly Nuxt frontend for WooCommerce powered by WPGraphQL.
+- [GitHub Pages Storefront Starter](https://duct-tape2.github.io/github-pages-storefront-starter/) &mdash; MIT GitHub Pages template and checker for launching a small static storefront with payment links and public-safe buyer workflows.
 
 ## Static Site Generators
 
 - [Next.js](https://nextjs.org) &mdash; The React Framework for Production.
 - [Hugo](https://gohugo.io) &mdash; The world’s fastest framework for building websites.
 - [Astro](https://astro.build/) &mdash; The web framework for content-driven websites.
+
+## AI Commerce Protocols
+
+- [UCP JavaScript SDK](https://github.com/OmnixHQ/ucp-js-sdk) &mdash; Runtime-validated Zod schemas and TypeScript types for the Universal Commerce Protocol (UCP), auto-generated from the UCP JSON Schema spec. Covers checkout, orders, payments, fulfillment, discounts, catalog and cart. Available on [npm](https://www.npmjs.com/package/@omnixhq/ucp-js-sdk).
