@@ -15,7 +15,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Saleor](https://saleor.io/) &mdash; A GraphQL-first, headless e-commerce platform for perfectionists.
 - [Boundless Commerce](https://boundless-commerce.com) &mdash; API’s First Headless eCommerce Platform. Free Next.js Templates! Just clone & deploy!
 - [Bagisto Headless Commerce](https://bagisto.com/en/headless-ecommerce/) — The Complete Open Source Headless eCommerce Platform for B2B, B2C, and Marketplace, powered by GraphQL for Lightning Performance and Flexibility
-- [Litekart](https://litekart.in) - Open-source Node.js + SvelteKit headless ecommerce. MIT licensed, multi-vendor built-in, REST APIs, AI Studio. 1,800+ GitHub stars. ([Source](https://github.com/itswadesh/svelte-commerce))
+- [Litekart](https://litekart.in) &mdash; Self-hosted headless ecommerce platform for multi-vendor marketplaces, B2B portals and multi-tenant stores.
 - [Mercur](https://www.mercurjs.com) &mdash; Open-source headless marketplace platform built on Medusa: multi-vendor catalog, commissions, order splitting, and vendor payouts. ([Source](https://github.com/mercurjs/mercur))
 - [OneEntry Platform](https://oneentry.cloud) &mdash; Headless CMS + headless commerce backend (BaaS) with unified API for content, catalog, orders and users; SDKs for JS/TS, Kotlin and Swift.
 
@@ -199,6 +199,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Plasmic](https://plasmic.app) &mdash; Visual page builder for Next.js, Gatsby, and any other tech stack, so content creators can create landing pages and more without developer involvement.
 - [WooNuxt](https://woonuxt.com/) &mdash; A modern, fast, SEO-friendly Nuxt frontend for WooCommerce powered by WPGraphQL.
 - [GitHub Pages Storefront Starter](https://duct-tape2.github.io/github-pages-storefront-starter/) &mdash; MIT GitHub Pages template and checker for launching a small static storefront with payment links and public-safe buyer workflows.
+- [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) &mdash; Open-source (MIT) SvelteKit storefront with connector packages for 26 commerce backends, including Vendure, Medusa, Shopify and WooCommerce.
 
 ## Static Site Generators
 
