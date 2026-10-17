@@ -46,6 +46,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [SubscribePro](https://subscribepro.com) &mdash; Enabling autoship, auto-replenishment, subscription boxes, and recurring billing.
 - [Smartrr](https://smartrr.com/) &mdash; Seamless checkout and customer portal experience for their subscribers.
 - [lemon squeezy](https://www.lemonsqueezy.com) &mdash; Payments, tax & subscriptions for software companies.
+- [Swipe Again](https://swipeagain.com) &mdash; Failed-payment recovery for subscription businesses &mdash; smart retries, dunning, and cancel deflection across Stripe, Recharge, Shopify and more.
 
 ## CMS
 
