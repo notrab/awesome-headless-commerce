@@ -17,6 +17,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Bagisto Headless Commerce](https://bagisto.com/en/headless-ecommerce/) — The Complete Open Source Headless eCommerce Platform for B2B, B2C, and Marketplace, powered by GraphQL for Lightning Performance and Flexibility
 - [Litekart](https://litekart.in) - Open-source Node.js + SvelteKit headless ecommerce. MIT licensed, multi-vendor built-in, REST APIs, AI Studio. 1,800+ GitHub stars. ([Source](https://github.com/itswadesh/svelte-commerce))
 - [Mercur](https://www.mercurjs.com) &mdash; Open-source headless marketplace platform built on Medusa: multi-vendor catalog, commissions, order splitting, and vendor payouts. ([Source](https://github.com/mercurjs/mercur))
+- [OneEntry Platform](https://oneentry.cloud) &mdash; Headless CMS + headless commerce backend (BaaS) with unified API for content, catalog, orders and users; SDKs for JS/TS, Kotlin and Swift.
 
 ## Hybrids
 
@@ -60,7 +61,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [LexasCMS](https://www.lexascms.com) &mdash; An e-commerce focused headless CMS with built-in support for personalisation, scheduling, and visual previews.
 - [Storyblok](https://www.storyblok.com) &mdash; Storyblok helps your team to tell your story and manage content for every use-case.
 - [Hygraph](https://hygraph.com) &mdash; The headless CMS powering content for mission-critical applications.
-- [PayloadCMS](https://payloadcms.com/) &mdash; The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. 
+- [PayloadCMS](https://payloadcms.com/) &mdash; The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [UnfoldCMS](https://unfoldcms.com) &mdash; Self-hosted headless CMS with a REST API (42 endpoints), HMAC webhooks, and first-class support for Next.js, Astro, SvelteKit, and Nuxt.
 - [Cmssy](https://www.cmssy.com) - Hosted headless CMS with built-in commerce: products, carts, orders, discounts, refunds and customer accounts. Your own Next.js, Astro or Remix app renders the store, payments stay with your provider, and an AI agent can run orders and content over MCP.
 
