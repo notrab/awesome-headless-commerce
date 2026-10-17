@@ -1,5 +1,7 @@
 # awesome-headless-commerce [![Awesome Headless Commerce](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+> **From the maintainer:** [Orbitwrite](https://orbitwrite.com) is calm social media scheduling for the brands you build. Draft, plan, collect approval and publish across your networks from one place.
+
 A community curated list of headless commerce related APIs, products, and services. A heads-up for modern store builders.
 
 ## Headless Platforms
