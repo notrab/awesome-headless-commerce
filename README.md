@@ -9,7 +9,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [commercetools](https://commercetools.com) &mdash; The eCommerce Solution for Innovators and Visionaries.
 - [Medusa](https://www.medusajs.com) &mdash; Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 - [Spree Commerce](https://spreecommerce.org) &mdash; Open source headless ecommerce platform with B2B, marketplace, multi-store, and cross-border commerce built in. Ships with a TypeScript SDK and reference Next.js storefront.
-- [Unchained Engine](https://unchained.shop/unchained-engine) &mdash; Unchained Engine is an API-driven and Open-Source E-Commerce Framework for Node.js
+- [Unchained Engine](https://unchained.shop/unchained-engine) &mdash; Open-source headless e-commerce framework for Node.js: GraphQL API, TypeScript, MongoDB, built-in MCP server for AI agents.
 - [Vendure](https://www.vendure.io/) &mdash; A headless GraphQL ecommerce framework built on Node.js with Nest & TypeScript, with a focus on developer productivity and ease of customization.
 - [Chord](https://chord.co/) &mdash; The API-first, Data-first Commerce Platform. Created by experts in DTC innovation.
 - [Saleor](https://saleor.io/) &mdash; A GraphQL-first, headless e-commerce platform for perfectionists.
