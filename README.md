@@ -1,6 +1,5 @@
 # awesome-headless-commerce [![Awesome Headless Commerce](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-
 A community curated list of headless commerce related APIs, products, and services. A heads-up for modern store builders.
 
 ## Headless Platforms
