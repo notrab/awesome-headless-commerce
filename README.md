@@ -1,5 +1,6 @@
 # awesome-headless-commerce [![Awesome Headless Commerce](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+
 A community curated list of headless commerce related APIs, products, and services. A heads-up for modern store builders.
 
 ## Headless Platforms
@@ -46,6 +47,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [SubscribePro](https://subscribepro.com) &mdash; Enabling autoship, auto-replenishment, subscription boxes, and recurring billing.
 - [Smartrr](https://smartrr.com/) &mdash; Seamless checkout and customer portal experience for their subscribers.
 - [lemon squeezy](https://www.lemonsqueezy.com) &mdash; Payments, tax & subscriptions for software companies.
+- [Swipe Again](https://swipeagain.com) &mdash; Failed-payment recovery for subscription businesses — decline-code-aware smart retries, branded dunning and cancel deflection for headless commerce stacks (Stripe, Recharge, Seal, Skio, Loop, Chargebee, Recurly, Braintree, Paddle).](https://www.lemonsqueezy.com) &mdash; Payments, tax & subscriptions for software companies.
 
 ## CMS
 
