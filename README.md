@@ -99,6 +99,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Fraud Prevention
 
+- [ShieldLabs](https://shieldlabs.ai/) &mdash; Device identification and fraud detection for fake signups, multi-accounting, promo abuse, and bots.
 - [Sift](https://sift.com) &mdash; Fraud prevention solutions that enable your business to innovate & grow without increased risk.
 
 ## Payments
