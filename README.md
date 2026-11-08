@@ -20,6 +20,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Litekart](https://litekart.in) &mdash; Self-hosted headless ecommerce platform for multi-vendor marketplaces, B2B portals and multi-tenant stores.
 - [Mercur](https://www.mercurjs.com) &mdash; Open-source headless marketplace platform built on Medusa: multi-vendor catalog, commissions, order splitting, and vendor payouts. ([Source](https://github.com/mercurjs/mercur))
 - [OneEntry Platform](https://oneentry.cloud) &mdash; Headless CMS + headless commerce backend (BaaS) with unified API for content, catalog, orders and users; SDKs for JS/TS, Kotlin and Swift.
+- [ShopNex](https://shopnex.ai) &mdash; Open-source, self-hosted Shopify alternative with a typed REST Storefront API, scoped API tokens, signed webhooks and out-of-process apps. Ships an Astro storefront with Liquid themes, or bring your own frontend. ([Source](https://github.com/shopnex-ai/shopnex))
 
 ## Hybrids
 
