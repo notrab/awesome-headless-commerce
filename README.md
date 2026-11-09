@@ -51,6 +51,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [lemon squeezy](https://www.lemonsqueezy.com) &mdash; Payments, tax & subscriptions for software companies.
 - [AgentaOS](https://agentaos.ai) &mdash; Merchant of record for software and digital products: checkout, subscriptions, tax and payouts in 85+ countries.
 - [Swipe Again](https://swipeagain.com) &mdash; Failed-payment recovery for subscription businesses &mdash; smart retries, dunning, and cancel deflection across Stripe, Recharge, Shopify and more.
+- [OpenLup](https://openlup.com) &mdash; Open-source (Apache-2.0) subscription commerce for physical goods: renewals, dunning, payment recovery and customer self-service as TypeScript packages. ([Source](https://github.com/openlup/openlup))
 
 ## CMS
 
