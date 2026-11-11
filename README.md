@@ -204,6 +204,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [WooNuxt](https://woonuxt.com/) &mdash; A modern, fast, SEO-friendly Nuxt frontend for WooCommerce powered by WPGraphQL.
 - [GitHub Pages Storefront Starter](https://duct-tape2.github.io/github-pages-storefront-starter/) &mdash; MIT GitHub Pages template and checker for launching a small static storefront with payment links and public-safe buyer workflows.
 - [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) &mdash; Open-source (MIT) SvelteKit storefront with connector packages for 26 commerce backends, including Vendure, Medusa, Shopify and WooCommerce.
+- [Astro AI Shop](https://github.com/fengyiqicoder/astro-ai-shop) &mdash; MIT Astro store theme with products as Markdown files, Stripe Payment Links checkout and a product question box, with no backend.
 
 ## Static Site Generators
 
