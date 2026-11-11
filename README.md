@@ -116,6 +116,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [ShipEngine](https://www.shipengine.com) &mdash; Discover the new standard in multi-carrier shipping and logistics.
 - [Shippo](https://goshippo.com) &mdash; The absolute best rates from top carriers and everything you need for professional shipping in one place.
 - [easypost](https://www.easypost.com) &mdash; Create labels in a few clicks and save up to 74% or use our modern Shipping API with tracking, address verification, and customs for USPS, FedEx, UPS, DHL, plus many more.
+- [lastscanned](https://lastscanned.com) &mdash; Package tracking API and MCP server across 549 parcel and ocean-container carriers, with webhooks and a free tier.
 - [Openship](https://openship.org/) &mdash; Multi-channel fulfilment at scale
 - [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) &mdash; Open packaging-fit calculator for testing carton, mailer, and poly mailer scenarios in ecommerce fulfillment.
 - [CanWeShip](https://canweship.com/api-docs/) &mdash; Free, no-auth U.S. shipping guidance API with USPS, UPS, and FedEx preliminary checks and official source links.
