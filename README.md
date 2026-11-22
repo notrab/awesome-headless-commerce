@@ -93,7 +93,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Tax
 
-- [TrustComponent VAT Checker](https://www.trustcomponent.com/en/products/vat-checker) &mdash; API to validate EU VAT IDs and record verification evidence.
+- [TrustComponent VAT Checker](https://www.trustcomponent.com/en/products/vat-checker) &mdash; API to look up EU VAT numbers.
 - [TaxJar](https://www.taxjar.com) &mdash; Sales Tax Compliance Made Effortless.
 - [TaxCloud](https://taxcloud.com) &mdash; Worry-Free Sales Tax.
 - [Avalara](https://www.avalara.com) &mdash; Simplify tax compliance with automation.
