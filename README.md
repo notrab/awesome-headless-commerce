@@ -99,6 +99,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Fraud Prevention
 
+- [TrustCaptcha](https://www.trustcomponent.com/en/products/captcha) &mdash; Invisible EU-hosted CAPTCHA and bot protection for signups, contact forms, and checkout.
 - [ShieldLabs](https://shieldlabs.ai/) &mdash; Device identification and fraud detection for fake signups, multi-accounting, promo abuse, and bots.
 - [Sift](https://sift.com) &mdash; Fraud prevention solutions that enable your business to innovate & grow without increased risk.
 
