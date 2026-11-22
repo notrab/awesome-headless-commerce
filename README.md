@@ -158,6 +158,7 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Analytics
 
+- [TrustAnalytics](https://www.trustcomponent.com/en/products/analytics) &mdash; Privacy-friendly EU-hosted web analytics with funnels, revenue attribution, and Core Web Vitals.
 - [Fathom Analytics](https://usefathom.com) &mdash; Your website analytics should be simple, fast and privacy-focused.
 - [Plausible](https://plausible.io) &mdash; Easy to use and privacy-friendly Google Analytics alternative.
 
